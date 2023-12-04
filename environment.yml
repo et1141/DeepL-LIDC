@@ -1,0 +1,11 @@
+name: deepl-lidc-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - matplotlib
+  - numpy
+  - pandas
+prefix: /home/vadim/miniconda3/envs/deepl-lidc-env
